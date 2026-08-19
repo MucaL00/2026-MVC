@@ -30,6 +30,19 @@ body {
   text-align: start;
 }
 
-.h150{
+.h-150{
+  height: 150px;  
+}
+
+.caixa{
+  width: 150px;
   height: 150px;
+  background-color: darkorchid;
+  border: 3px #000f1f solid;
+  text-align: center;
+  padding-top: 70px;
+}
+
+.h-500{
+  height: 500px;
 }
